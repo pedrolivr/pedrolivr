@@ -2,6 +2,7 @@
 
 - Engenheiro Civil
 - Programação por hobby (e necessidade)
+- Regex Evangelist ✊
 
 <div>
   <a href="https://beacons.ai/pedrolivr">
